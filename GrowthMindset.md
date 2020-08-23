@@ -33,4 +33,4 @@ The concept of a growth mindset is a popular topic lately, and I sometimes say t
 *If you want more information about fixd and Growth mindset just [Click Here](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/)*
 
 
-Aya Abu Rashed was with you and this is my githup profile link [Aya]()
+Aya Abu Rashed was with you and this is my githup profile link [Aya ^-^](https://github.com/AyaAbuRashed)
