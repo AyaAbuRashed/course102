@@ -3,6 +3,7 @@
 # What is a growth mindset?
 
 A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning.
+By contrast, in a fixed mindset, intelligence and talent are seen as fixed traits, suggesting that success comes from these inherent qualities alone, without the need for further development or effort.
 
 # How you can benefit from a growth mindset
 
@@ -28,3 +29,8 @@ The concept of a growth mindset is a popular topic lately, and I sometimes say t
 3.Look optimistically to the future and let hope always be your companion.
 
 2.You can and you will.
+
+*If you want more information about fixd and Growth mindset just [Click Here](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/)*
+
+
+Aya Abu Rashed was with you and this is my githup profile link [Aya]()
