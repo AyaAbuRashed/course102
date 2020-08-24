@@ -61,13 +61,13 @@ _You **can** combine them_
 
    ## Images
 
-> $![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+> ![GitHub Logo] (/images/logo.png)
+Format: ![Alt Text] (url)
 
    ## Links
 
    > http://github.com - automatic!
-$[GitHub](http://github.com)
+[GitHub] (http://github.com)
 
   ## Blockquotes
 
