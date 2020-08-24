@@ -21,15 +21,15 @@ Because the DVCS allows for multiple mirrored repositories, programmers working 
 
 # So, what is Git?
 
--Snapshots
+- Snapshots
 
--Local Operations
+- Local Operations
 
--Tracking Changes
+- Tracking Changes
 
--Loss of Data
+- Loss of Data
 
--States
+- States
 
 ![imagr](https://blog.udemy.com/wp-content/uploads/2015/08/image066.png)
 
