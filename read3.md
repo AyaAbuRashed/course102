@@ -84,7 +84,7 @@ changes.
 
 *git push origin master*
 
-| Syntax | Description |
+| Read num |  link |
 | ----------- | ----------- |
-| Header | read num |
-| Paragraph | Text |
+| read 1 | read num |
+| read 2 | Text |
