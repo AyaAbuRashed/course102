@@ -46,15 +46,16 @@ and a separate CSS file (example.css). The fifth line of HTML uses the
 On the next page, you will see how CSS rules can also be placed in your
 HTML pages and we will discuss when you might want to do this.
 
+
+
 ![r](https://startingelectronics.org/tutorials/arduino/ethernet-shield-web-server-tutorial/CSS-introduction/CSS-ex1.png)
 
 
 
 
+## Using External,Enternal,Inline CSS
 
-## Using External CSS
-
-![m](https://codebridgeplus.com/wp-content/uploads/download-5.png)
+![m](https://www.bitdegree.org/learn/storage/media/images/8c4493d3-110c-4a95-8b70-7626ce2d2f4e.o.jpg)
 
 ## Why use External Style Sheets?
 When building a website there are several advantages to placing your
