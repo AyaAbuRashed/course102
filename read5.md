@@ -24,12 +24,9 @@ every HTML element.
 
 Block level elements look
 like they start on a new line.
-Examples include the <h1>-
-<h6>, <p> and <div> elements.
 Inline elements flow within the
-text and do not start on a new
-line. Examples include <b>, <i>,
-<img>, <em> and <span>.
+text and do not start on a new .
+
 
 ## CSS Associates Style rules with HTML elements
 
@@ -53,6 +50,60 @@ HTML pages and we will discuss when you might want to do this.
 
 
 
+
+
 ## Using External CSS
 
 ![m](https://codebridgeplus.com/wp-content/uploads/download-5.png)
+
+## Why use External Style Sheets?
+When building a website there are several advantages to placing your
+CSS rules in a separate style sheet.
+
+All of your web pages can share
+the same style sheet. This is
+achieved by using the <link>
+element on each HTML page of
+your site to link to the same CSS
+document. This means that the
+same code does not need to be
+repeated in every page (which
+results in less code and smaller
+HTML pages). 
+
+Therefore, once the user has
+downloaded the CSS stylesheet,
+the rest of the site will load
+faster. If you want to make a
+change to how your site appears,
+you only need to edit the one
+CSS file and all of your pages
+will be updated. For example,
+you can change the style of
+every <h1> element by altering 
+
+##  Versions of CSS & Browser Quirks
+CSS1 was released in 1996 and CSS2 followed two years later. Work on
+CSS3 has been ongoing but the major browsers have already started to
+implement it.
+
+
+
+
+## Summary INTRODUCING CSS
+
+- CSS treats each HTML element as if it appears inside
+its own box and uses rules to indicate how that
+element should look.
+- Rules are made up of selectors (that specify the
+elements the rule applies to) and declarations (that
+indicate what these elements should look like).
+- Different types of selectors allow you to target your
+rules at different elements.
+- Declarations are made up of two parts: the properties
+of the element that you want to change, and the values
+of those properties. For example, the font-family
+property sets the choice of font, and the value arial
+specifies Arial as the preferred typeface.
+- CSS rules usually appear in a separate document,
+although they may appear within an HTML page.
