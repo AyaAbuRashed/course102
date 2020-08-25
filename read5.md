@@ -14,19 +14,22 @@ So this chapter will:
 - Teach you how to write CSS rules
 - Show you how CSS rules apply to HTML pages
 
+---
+
 ## Understanding CSS Thinking Inside the Box
 
 The key to understanding how CSS works is to
 imagine that there is an invisible box around
 every HTML element.
 
-# BLOCK & INLINE ELEMENTS 
+## BLOCK & INLINE ELEMENTS 
 
 Block level elements look
 like they start on a new line.
 Inline elements flow within the
 text and do not start on a new .
 
+---
 
 ## CSS Associates Style rules with HTML elements
 
@@ -38,6 +41,8 @@ CSS declarations sit inside curly brackets and each is made up of two
 parts: a property and a value, separated by a colon. You can specify
 several properties in one declaration, each separated by a semi-colon.
 
+---
+
 ## Example INTRODUCING CSS
 
 This example uses two documents: the HTML file (example.html)
@@ -46,7 +51,7 @@ and a separate CSS file (example.css). The fifth line of HTML uses the
 On the next page, you will see how CSS rules can also be placed in your
 HTML pages and we will discuss when you might want to do this.
 
-
+---
 
 ![r](https://startingelectronics.org/tutorials/arduino/ethernet-shield-web-server-tutorial/CSS-introduction/CSS-ex1.png)
 
@@ -83,13 +88,15 @@ will be updated. For example,
 you can change the style of
 every <h1> element by altering 
 
+---
+
 ##  Versions of CSS & Browser Quirks
 CSS1 was released in 1996 and CSS2 followed two years later. Work on
 CSS3 has been ongoing but the major browsers have already started to
 implement it.
 
 
-
+---
 
 ## Summary INTRODUCING CSS
 
