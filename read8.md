@@ -49,3 +49,11 @@ to continue with the current
 iteration, and then check the
 condition again. (If it is true, the
 code runs again.) 
+
+## Definition and Usage of for statment
+The for statement creates a loop that is executed as long as a condition is true.
+The loop will continue to run as long as the condition is true. It will only stop when the condition becomes false.
+
+## Definition and Usage of while statment
+The while statement creates a loop that is executed while a specified condition is true.
+The loop will continue to run as long as the condition is true. It will only stop when the condition becomes false.
