@@ -1,6 +1,6 @@
 Everywhere you look, computers are changing the world whether they are on our desktop, in our home,our pokets,or just about anywhere else..but while most of us use this revolutionary technology daily, 
 We don't often ask 
-# =how do computers work? 
+# how do computers work? 
 Starting with what makes a computer a computer then, you will look at how information is represented inside the computer using tiny electrical signals going on and off at mind-boggling speeds.
 After that you will learn how computers use circuits to do everything from simple math to simulation entire virtual worlds.
 ---
